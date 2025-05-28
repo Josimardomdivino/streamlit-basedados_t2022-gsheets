@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cogent-spirit-461218-k2",
+  "private_key_id": "2fcec4cbe4c267bcf1e94e3b24266c89e50963be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4eRJtw+xA9ryY\ngwTXcZUtbr+dexGf6tHp9TaxIe+kjVqI34KOqk/rgudVpeIFcioM/7IQsB/d4Ibl\n0OxSX6QtMXFemxaoULQSXOfdIzDR1JxZC1MrtPuU7dDs0/zhazdORlZiqbMtjoQC\n32hoLJ7yqWo9sFPcu5E9cVfIgrQpJ6cYJ2PZFBLWrz+DvbeNtCzaC7aoc/dj9Ec7\n4gph9k0E+bK7reiz2GMs4Ej+42jbwuq+pZdrsTYmNC/8YzCKTHP58xPC4RVtTO5Q\n+Lr9fkAzgawSbi8KxAHeyKw1tLtA/CHdpVtX1MkdQcKS/EMnL+j0bVeSoPMeJVTE\n/6ojry6RAgMBAAECggEACogqBc+G3l4f3haz2O+EiHGfWbi4JMDJr4FnGBWTipnh\n4njdSbMeSThB6B1GglBWZ4PVKRf/F8Is/XOwPFM2yrg9DF1PHbiu0TIR8EmFLOOm\nMfzAKLmGWAY8VHsVX9LI12yTW8JrxwTxEz9pRPJQOFM1DDTUEuD4DbGaBQn2Snee\n42HUDEJVtUBdEkbFS04IARPjNE9iDRIVYfa7A0JtHnqFEY9B57R3Cs5j/3hyG35f\nD24PL9FGxR2qSNWyuiK81stMkSwsYmDj157xPClbz7uGu5tWRsFUdgC59KH22+kU\ntloU8GstyrmL17xjo/R0YPtLWfa5BlXcBJwvWyvGqQKBgQDfGgPx3R3cxy7hYw1P\nWOCBXO7xB37w9/cIgNBI4G7vBvgpgDGcyDdpTg7nLg6uzMGw6CNSlRmmDKXuyxIr\npJhpuI40x17T+gp7akI+tLS/uzk+zT2kUwjnCfcgd71Lsmr3I+dej1JcR/I6yn4a\n4+tyZc4PXS4CrN745OCPKd5BCQKBgQDTrNdgSrQYNOemg7PvM4wf7mNjIkojzXge\n/UqqVo6Vzah8IhaRWgYiaoA3PiBZwynLhD5No3oGfW95A66PuSOS9sO8TeUikFhA\nQMJQl2UJykCCeKCyqxmnfv/Ifbe0Hyz73OGN4BA39/wYx2hqudCUmP41WaEWxUAk\nixZ+0XlLSQKBgDKGd8I8q1imm01b21XO8PkbDNn1MqBr57w7P/BhM35ae7UaXSH+\njd4BWYqteZHIuUzRJb68GZTrZGDSCIltuz6mFz6IsEcdZ2ZPyDTfQ9fwFKTOYllm\nnKuGLDtkIrCT9XmG3g0iNCrF+GusFCcO2vGLcME1/weIEu8XFmwVtUnRAoGBAIzY\nKer5agHdWfHzGkvkOa2ZemohC8Hs2quMEB1tQKyuzhfiuq92fjRyNuQLI412jZ3M\nXYRdbTlaR0z3RTR+lQwZw73M+tTXxNDkBieHxQQRnoDx8MNRk91eZKWr+QsR32Wq\n4C390+zZxdVbAcBZ6U6myicHf2deUkK+hXZWvWV5AoGBAM35YXqA/7uebB5R8B5O\nmJqpmLES23KWnF5x9vFdViaI/M25lqiHribW+dO9H9/rpP5AHxOsUxVMMuMvLImy\ntiqauvwySa4/Zht/5hH0CEezeYyapLZzrPv7lSFmLGptljXy7SqBWC5GvAxbdKdn\ngr/iDx/Zq5cwt1C7Yvayp/mn\n-----END PRIVATE KEY-----\n",
+  "client_email": "josima-mendes@cogent-spirit-461218-k2.iam.gserviceaccount.com",
+  "client_id": "114320551880228344326",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/josima-mendes%40cogent-spirit-461218-k2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
